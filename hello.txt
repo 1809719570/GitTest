@@ -1,7 +1,5 @@
 init hello
 add comment
 add author
-<<<<<<< HEAD
-=======
 add 1
->>>>>>> 22fd018 (add 1)
+add 2
